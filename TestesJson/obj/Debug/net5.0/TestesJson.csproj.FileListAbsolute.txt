@@ -1,0 +1,16 @@
+C:\Users\allan\source\repos\TestesJson\TestesJson\bin\Debug\net5.0\TestesJson.exe
+C:\Users\allan\source\repos\TestesJson\TestesJson\bin\Debug\net5.0\TestesJson.deps.json
+C:\Users\allan\source\repos\TestesJson\TestesJson\bin\Debug\net5.0\TestesJson.runtimeconfig.json
+C:\Users\allan\source\repos\TestesJson\TestesJson\bin\Debug\net5.0\TestesJson.runtimeconfig.dev.json
+C:\Users\allan\source\repos\TestesJson\TestesJson\bin\Debug\net5.0\TestesJson.dll
+C:\Users\allan\source\repos\TestesJson\TestesJson\bin\Debug\net5.0\ref\TestesJson.dll
+C:\Users\allan\source\repos\TestesJson\TestesJson\bin\Debug\net5.0\TestesJson.pdb
+C:\Users\allan\source\repos\TestesJson\TestesJson\obj\Debug\net5.0\TestesJson.csprojAssemblyReference.cache
+C:\Users\allan\source\repos\TestesJson\TestesJson\obj\Debug\net5.0\TestesJson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allan\source\repos\TestesJson\TestesJson\obj\Debug\net5.0\TestesJson.AssemblyInfoInputs.cache
+C:\Users\allan\source\repos\TestesJson\TestesJson\obj\Debug\net5.0\TestesJson.AssemblyInfo.cs
+C:\Users\allan\source\repos\TestesJson\TestesJson\obj\Debug\net5.0\TestesJson.csproj.CoreCompileInputs.cache
+C:\Users\allan\source\repos\TestesJson\TestesJson\obj\Debug\net5.0\TestesJson.dll
+C:\Users\allan\source\repos\TestesJson\TestesJson\obj\Debug\net5.0\ref\TestesJson.dll
+C:\Users\allan\source\repos\TestesJson\TestesJson\obj\Debug\net5.0\TestesJson.pdb
+C:\Users\allan\source\repos\TestesJson\TestesJson\obj\Debug\net5.0\TestesJson.genruntimeconfig.cache
